@@ -1,0 +1,20 @@
+{
+  "translatebar.tooltip.translate": "Перевести текст",
+  "translatebar.tooltip.language": "Сменить язык перевода",
+  "translatebar.message.language_set": "Язык перевода: %s",
+  "translatebar.message.empty": "Сначала введи текст",
+  "translatebar.message.command": "Команды не переводятся",
+  "translatebar.message.translating": "Перевожу на %s…",
+  "translatebar.message.error": "Не удалось перевести — проверь интернет и попробуй ещё раз",
+  "translatebar.message.done": "Перевод готов — проверь текст и нажми Enter",
+  "translatebar.language.en": "английский",
+  "translatebar.language.de": "немецкий",
+  "translatebar.language.fr": "французский",
+  "translatebar.language.es": "испанский",
+  "translatebar.language.pl": "польский",
+  "translatebar.language.zh": "китайский",
+  "translatebar.language.ru": "русский",
+  "translatebar.language.ja": "японский",
+  "translatebar.language.it": "итальянский",
+  "translatebar.language.pt": "португальский"
+}

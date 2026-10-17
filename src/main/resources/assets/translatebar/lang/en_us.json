@@ -1,0 +1,20 @@
+{
+  "translatebar.tooltip.translate": "Translate the chat input",
+  "translatebar.tooltip.language": "Change the target language",
+  "translatebar.message.language_set": "Target language: %s",
+  "translatebar.message.empty": "Type some text first",
+  "translatebar.message.command": "Commands are not translated",
+  "translatebar.message.translating": "Translating into %s…",
+  "translatebar.message.error": "Translation failed — check your internet and try again",
+  "translatebar.message.done": "Translation ready — review the text and press Enter",
+  "translatebar.language.en": "English",
+  "translatebar.language.de": "German",
+  "translatebar.language.fr": "French",
+  "translatebar.language.es": "Spanish",
+  "translatebar.language.pl": "Polish",
+  "translatebar.language.zh": "Chinese",
+  "translatebar.language.ru": "Russian",
+  "translatebar.language.ja": "Japanese",
+  "translatebar.language.it": "Italian",
+  "translatebar.language.pt": "Portuguese"
+}

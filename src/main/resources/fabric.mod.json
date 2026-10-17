@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "translatebar",
+  "version": "${version}",
+  "name": "TranslateBar",
+  "description": "Client-side chat translator: auto-detects the source language and translates your chat input into one of 10 languages with one click.",
+  "authors": ["asswa"],
+  "license": "MIT",
+  "icon": "assets/translatebar/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.asswa.translator.TranslatorClient"
+    ]
+  },
+  "mixins": [
+    "translatebar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "${minecraft_range}",
+    "java": ">=${java_dep}",
+    "fabric-api": "*"
+  }
+}

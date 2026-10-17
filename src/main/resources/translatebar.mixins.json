@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.asswa.translator.mixin",
+  "compatibilityLevel": "${mixin_compat}",
+  "client": [
+    "ChatScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
